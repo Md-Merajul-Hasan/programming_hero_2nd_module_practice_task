@@ -2,4 +2,34 @@
     font-size: 25px;
     color: blue;
     background-color: darkseagreen;
+    font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
+    font-style:normal;
+    border: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 8px;
+    font-weight: bold;
+}
+ol{
+    font-size: 30px;
+    color:black;
+    font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
+    font-style:normal;
+    border: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 8px;
+    background-color: blueviolet;
+    font-weight: bolder;
+}
+h2,h3{
+    color:chartreuse;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
+    font-style:italic;
+    border: 8px;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 5px;
+    font-weight: bold;
 }
